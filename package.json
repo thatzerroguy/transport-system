@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/thatzerroguy/transport-system#readme",
   "devDependencies": {
+    "@types/express": "^5.0.3",
     "@types/node": "^24.5.2",
     "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
